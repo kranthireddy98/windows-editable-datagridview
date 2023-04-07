@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "windows editable gridview", "windows editable gridview\windows editable gridview.csproj", "{659F23BA-B12E-4C73-991D-A4E2FF6F6DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{659F23BA-B12E-4C73-991D-A4E2FF6F6DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{659F23BA-B12E-4C73-991D-A4E2FF6F6DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{659F23BA-B12E-4C73-991D-A4E2FF6F6DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{659F23BA-B12E-4C73-991D-A4E2FF6F6DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58DF4897-6C6A-4584-9AD4-98C149CD4E17}
+	EndGlobalSection
+EndGlobal
